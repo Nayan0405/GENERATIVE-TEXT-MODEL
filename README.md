@@ -45,3 +45,4 @@ It’s open-source and actively maintained
 Companies use it to prototype fast NLP applications
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/09f2441b-e889-45e1-a192-aa1a929a2237)
